@@ -1,0 +1,20 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "This repository contains my code and notes from the [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) ](https://www.udemy.com/course/nodejs-the-complete-guide) Udemy course.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJAxel/nodejs-learning.git"
+  },
+  "author": "Axel Kohler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJAxel/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/DJAxel/nodejs-learning#readme"
+}
