@@ -5,4 +5,4 @@ This repository contains my code and notes from the [NodeJS - The Complete Guide
 
 Notes can be found in the `notes` folder.
 
-Projects or assignment can be found in the folders starting with `section_` followed by their section number.
+Assignments can be found in the folders starting with `assignment_` followed by their number.
