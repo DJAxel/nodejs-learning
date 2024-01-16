@@ -1,0 +1,19 @@
+body {
+    background-color: #F3F8FF;
+    color: #49108B;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 100%;
+    max-width: 920px;
+    margin: auto;
+    padding: 2rem 1rem;
+}
+
+h1 {
+    border-bottom: .3rem solid #E26EE5;
+    display: inline-block;
+}
